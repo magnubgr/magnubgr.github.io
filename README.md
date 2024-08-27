@@ -1,7 +1,7 @@
 # Electronics engineer
 
 ## Education
-- MSc, Electronics Engineering (Microelectronics) | University of Oslo (_June 2023_)     		
+- MSc, Electronics Engineering | University of Oslo (_June 2023_)     		
 - BSc, Computer Science | University of Oslo (_June 2020_)								       		
 - BSc, Physics | University of Oslo (_June 2019_)
 
@@ -17,8 +17,9 @@
 - Processing and visualization of data from IC production testing.
 
 **SW Developer Internship @ Eiendomsverdi (_Summer 2020_)**
-- Developed a machine learning model with PyTorch for image classification, with a React frontend and a Flask API backend fetching data of an SQL server.
--   Machine learning model resulted in a 90% accuracy.
+- Developed a machine learning model with PyTorch for image classification
+- React frontend and a Flask API backend fetching data from an SQL server.
+- Machine learning model resulted in a 90% accuracy.
 
 **Data entry and SW development (Part-time) @ Eiendomsverdi (_March 2019 - March 2021_)**
 - Part-time job with data entry and manual quality control of data. Also smaller software development assignments.
