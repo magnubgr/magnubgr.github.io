@@ -7,7 +7,7 @@ Electrical Engineering, Informatics and Technology, MSc
 
 ### Work Experience
 Hardware Test Engineer @ Novelda 
-- PCB Design: Development kits, internal tools and flex cables | Panel design | DFM/DFT
+- PCB Design: Development kits, internal tools and flex cables, Panel design and DFM/DFT
 - Testing of modules for customer sampling and internal use
 - Assembly of PCBs, soldering, stencil-printing, reflow
 - RMA handling and FA (failure analysis)
@@ -30,11 +30,15 @@ Scientific Research Assistant (Summer 2018 and Summer 2019) @ Forsvarets forskni
 ### Projects
 Wireless Keyboard 60% (in the making)
 - ESP32, media buttons, volume knob, battery charging circuitry etc
+
 Hexapod Transforming Robot (in the making)
 - Fully designed in Fusion 360 and 3D-printed 
 - Transforming between a pumpkin and a spider
+  
 Mini Quadcopter 
 - MCU, radio, IMU, motor drivers, 3D-printed frame, 8.5mm brushed motors
+  
 Automatic plant watering
 - Soil moisture sensor, pump
+  
 Mini BT controlled "RC" car
