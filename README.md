@@ -14,7 +14,7 @@
 - Scripting, processing and storage of test result data in Azure
 
 **Test & Validation Engineer (Part-time & internship) @ Novelda  (_May 2021 - June 2022_)**
-- Processing and visualization of data from IC production testing.
+- Processing and visualization of data from IC production testing. (_Python, Power BI, Azure Storage, Azure Functions_).
 
 **SW Developer Internship @ Eiendomsverdi (_Summer 2020_)**
 - Developed a machine learning model with PyTorch for image classification
@@ -29,13 +29,11 @@
 - Modelling and simulation of interceptor missiles. Python for simulations, processing and parallelization. 
 
 ## Papers
-### Paper in IEEE TBioCAS
-[A CMOS Multi-Electrode Array for Four-Electrode Bioimpedance Measurements](https://ieeexplore.ieee.org/document/9918036)
+Paper in IEEE TBioCAS: [A CMOS Multi-Electrode Array for Four-Electrode Bioimpedance Measurements](https://ieeexplore.ieee.org/document/9918036)
 
-### Master's thesis
-[Bioimpedance Measurements on a CMOS Microelectrode Array](https://www.duo.uio.no/handle/10852/104550)
+Master's thesis: [Bioimpedance Measurements on a CMOS Microelectrode Array](https://www.duo.uio.no/handle/10852/104550)
 
-## Projects
+## Hobby Projects
 ### Wireless Keyboard 60% (in the making)
 - ESP32, media buttons, volume knob, battery charging circuitry etc
 ![Keyboard](/assets/img/kb.png)
