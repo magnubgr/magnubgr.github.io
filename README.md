@@ -1,9 +1,12 @@
 # Electronics engineer
 
 ## Education
-- MSc, Electronics Engineering | University of Oslo (_June 2023_)     		
-- BSc, Computer Science | University of Oslo (_June 2020_)								       		
+- MSc, Electronics Engineering | University of Oslo (_June 2023_)
+  - FPGAs/VHDL, PCB design, analog IC design, data acquisition sustem of CMOS chip for bioimpedance measurements. 
+- BSc, Computer Science | University of Oslo (_June 2020_)
+  - Machine learning, C-programming RPi, CMOS design            		
 - BSc, Physics | University of Oslo (_June 2019_)
+  - Foundation for general problem solving, Python programming, microcontroller programming
 
 ## Work Experience
 **Hardware Test Engineer @ Novelda  (_June 2022 - Present_)**
@@ -35,12 +38,14 @@ Master's thesis: [Bioimpedance Measurements on a CMOS Microelectrode Array](http
 
 ## Hobby Projects
 ### Wireless Keyboard 60% (in the making)
-- ESP32, media buttons, volume knob, battery charging circuitry etc
+- ESP32, battery charging circuitry, media buttons, volume knob etc
+- Programmed in the PlatformIO environment with C++
 ![Keyboard](/assets/img/kb.png)
 
 ### Hexapod Transforming Robot (in the making)
-- Fully designed in Fusion 360 and 3D-printed 
+- Fully designed in Fusion 360 and 3D-printed, programmed in 
 - Transforming between a pumpkin and a spider
+- Sparkfun Thing Plus ESP32, PWM servo driver
 ![Hexapod](/assets/img/hexapod.png)
 ![Hexapod Gif](/assets/img/hexapod_f360.gif)
 
@@ -51,4 +56,4 @@ Master's thesis: [Bioimpedance Measurements on a CMOS Microelectrode Array](http
 ### Other smaller projects 
 - Automatic plant watering
 - Mini BT controlled "RC" car
-- Clock unit
+- Started on an 8-bit breadboard computer and an RC controller for the drone and robot
