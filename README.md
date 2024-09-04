@@ -45,7 +45,7 @@ Master's thesis: [Bioimpedance Measurements on a CMOS Microelectrode Array](http
 ### Hexapod Transforming Robot (in the making)
 - Fully designed in Fusion 360 and 3D-printed, programmed in 
 - Transforming between a pumpkin and a spider
-- Sparkfun Thing Plus ESP32, PWM servo driver
+- Sparkfun Thing Plus ESP32, PWM servo driver, ultrasonic sensor
 ![Hexapod](/assets/img/hexapod.png)
 ![Hexapod Gif](/assets/img/hexapod_f360.gif)
 
@@ -55,5 +55,5 @@ Master's thesis: [Bioimpedance Measurements on a CMOS Microelectrode Array](http
   
 ### Other smaller projects 
 - Automatic plant watering
-- Mini BT controlled "RC" car
+- Mini BT controlled "RC" car with ultrasonic sensor for obstacle avoidance
 - Started on an 8-bit breadboard computer and an RC controller for the drone and robot
