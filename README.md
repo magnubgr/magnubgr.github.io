@@ -52,6 +52,11 @@ Master's thesis: [Bioimpedance Measurements on a CMOS Microelectrode Array](http
 ### Mini Quadcopter / Drone 
 - MCU, radio, IMU, motor drivers, 3D-printed frame, 8.5mm brushed motors
 ![Mini Quadcopter](/assets/img/quadcopter.jpg)
+
+### DIY Electronics Lab 
+- Soldering equipment, oscilloscope, signal generator, power supply, microscope, 3D-printers, ESD-protection.
+- DIY desk made from white stained oak, and a custom shelf made from 30x30 aluminium extrusion, IKEA pegboards and a white stained oak shelf.
+![Workstation1](/assets/img/workstation.jpg)
   
 ### Other smaller projects 
 - Automatic plant watering
